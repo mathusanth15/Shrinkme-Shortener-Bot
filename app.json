@@ -15,23 +15,23 @@
     "env": {
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "cbdf90a6844992b76e143656f6e07562"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "26257599"
         },
         "API_KEY": {
             "description": "Get API key from your Website",
-            "value": ""
+            "value": "320f4de26a9df67ad35d81f5dbc846cb084d0abb"
         },
         "API_URL": {
             "description": "Paste ONLY ONE API URL From Your Link Shortener Website, Examples are given here: https://github.com/AkBotZ/Link-Shortener-Bot#api-url-of-some-sites-are",
-            "value": ""
+            "value": "https://shrinkme.io/api"
         },
         "BOT_TOKEN": {
             "description": "Your bot token, Get it from @Botfather",
-            "value": ""
+            "value": "6554446900:AAHoEkJi75cE_v16yUD1NnMBKuNB_EtEfFw"
         }
     },
     "addons": [],
